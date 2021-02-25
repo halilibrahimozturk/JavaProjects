@@ -1,0 +1,36 @@
+All the words in the text and their frequencies are as follows:
+ / movement 1  / nothing 1  / place 1  / back 3 / overfulfilment 1  / down 2 / INGSOC 1  / vast 1  / still 1 
+ / fitfully 1  / bombs 1  / white 1  / world 1  / blue 1  / instant 1  / colonies 1  / their 4 / everywhere 1 
+ / long 1  / squeeze 1  / flight 1  / A 1  / use 1  / distaste 1  / flapped 1  / chief 1  / that 6
+ / an 1  / police 1  / at 4 / a 9 / How 1  / face 1  / habit 1  / be 4 / pig-iron 1 
+ / wire 2 / said 1  / whether 2 / shining 1  / like 3 / houses 1  / well 2 / by 1  / had 4
+ / commanded 1  / streetlevel 1  / cold 1  / colour 1  / itself 1  / assumption 1  / quite 1  / where 2 / opposite 1 
+ / rate 1  / seen 1  / all 2 / shut 1  / vision 1  / BIG 1  / bright-lit 1  / single 1  / with 5
+ / mattered 1  / away 3 / people's 1  / knew 1  / eddies 1  / crazy 1  / one 2 / little 1  / Down 2
+ / you 2 / they 3 / sides 1  / could 3 / vistas 1  / wanted 1  / swirled 1  / revealing 1  / sun 1 
+ / overheard 1  / There 2 / far 1  / Outside 1  / snooping 1  / iron 1  / level 1  / torn 2 / chicken-houses 1 
+ / windows 2 / patrol 1  / YOU 1  / uncovering 1  / Oceania 1  / always 2 / street 1  / not 2 / he 5
+ / hovered 1  / The 3 / were 3 / there 3 / patrols 1  / being 1  / again 1  / what 1  / poster 1 
+ / this 2 / IS 1  / whirling 1  / so 1  / in 9 / these 1  / it 2 / within 1  / whisper 1 
+ / house-front 1  / In 1  / It 3 / larger 1  / sagging 1  / darted 1  / can 1  / time 1  / him 1 
+ / though 2 / plug 1  / roofs 2 / his 3 / about 1  / however 1  / against 1  / Any 1  / above 2
+ / towered 1  / cleared 1  / through 1  / every 3 / out 1  / London 2 / was 11 / kilometre 1  / thought 1 
+ / covering 1  / way 1  / sites 1  / heard 1  / live 2 / spirals 1  / Thought 2 / heaps 1  / corrugated 1 
+ / timber 1  / unintelligible 1  / own 1  / skimmed 1  / wooden 1  / looked 2 / no 4 / knowing 1  / Were 1 
+ / simultaneously 1  / populous 1  / telescreen 3 / rotting 1  / landscape 1  / which 1  / of 18 / system 1  / eyes 1 
+ / another 1  / This 1  / metal 1  / matter 1  / on 3 / dark 1  / or 1  / patched 1  / conceivable 1 
+ / BROTHER 1  / commanding 1  / gazed 1  / Three-Year 1  / grimy 1  / tell 1  / plastered 1  / did 2 / But 2
+ / some 1  / tableaux 1  / provinces 1  / paper 1  / instinct 1  / individual 1  / And 1  / everybody 1  / into 3
+ / mostly 1  / Winston's 2 / dust 2 / guesswork 1  / caption 1  / memory 1  / most 1  / plugged 1  / picked 1 
+ / WATCHING 1  / plaque 1  / harsh 1  / nineteenth-century 1  / sprung 1  / even 3 / patch 1  / received 1  / course 1 
+ / plaster 1  / Winston 2 / helicopter 1  / He 1  / for 1  / from 3 / to 5 / Behind 1  / field 1 
+ / shored 1  / You 1  / city 1  / Ninth 1  / Only 1  / up 3 / immediately 1  / One 1  / air 1 
+ / rubble 1  / often 1  / babbling 1  / sort 1  / Airstrip 1  / should 1  / willow-herb 1  / posters 1  / remained 2
+ / became 1  / transmitted 1  / the 37 / low 1  / while 1  / vague 1  / distance 1  / remember 1  / Truth 1 
+ / directions 1  / background 1  / very 1  / moment 1  / alternately 1  / bluebottle 1  / darkness 1  / made 2 / seemed 1 
+ / sound 2 / moreover 1  / places 1  / word 1  / work 1  / series 1  / window-pane 1  / corner 2 / childhood 2
+ / third 1  / and 14 / except 3 / whenever 1  / scrutinized 1  / anything 1  / as 4 / been 1  / any 3
+ / would 1  / voice 1  / over 1  / safer 1  / Police 2 / turned 1  / watched 2 / curving 1  / straggled 1 
+ / sky 1  / Ministry 1  / dwellings 1  / occurring 1  / given 1  / sordid 1  / baulks 1  / kept 1  / garden 1 
+ / between 1  / cardboard 1  / tried 1  / Plan 1  / walls 1  / blackmoustachio'd 1  / your 1  / deep 1  / wind 2
+ / bombed 1 

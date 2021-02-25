@@ -1,0 +1,36 @@
+All the words in the text and their frequencies are as follows:
+ / opposite 1  / corrugated 1  / metal 1  / received 1  / A 1  / vast 1  / third 1  / a 9 / live 2
+ / one 2 / where 2 / blue 1  / you 2 / single 1  / spirals 1  / directions 1  / remained 2 / everywhere 1 
+ / out 1  / towered 1  / own 1  / patched 1  / away 3 / picked 1  / said 1  / safer 1  / individual 1 
+ / occurring 1  / should 1  / course 1  / INGSOC 1  / into 3 / between 1  / most 1  / could 3 / long 1 
+ / another 1  / Police 2 / BIG 1  / babbling 1  / vague 1  / world 1  / often 1  / level 1  / Were 1 
+ / bluebottle 1  / about 1  / above 2 / Any 1  / houses 1  / seemed 1  / Outside 1  / their 4 / again 1 
+ / baulks 1  / rate 1  / what 1  / plaque 1  / always 2 / far 1  / conceivable 1  / cleared 1  / paper 1 
+ / revealing 1  / instant 1  / Only 1  / there 3 / these 1  / There 2 / kept 1  / blackmoustachio'd 1  / Winston's 2
+ / Behind 1  / over 1  / became 1  / Winston 2 / larger 1  / for 1  / air 1  / eyes 1  / all 2
+ / eddies 1  / made 2 / willow-herb 1  / Three-Year 1  / sagging 1  / and 14 / that 6 / window-pane 1  / everybody 1 
+ / sides 1  / walls 1  / wanted 1  / telescreen 3 / covering 1  / distance 1  / rubble 1  / Ministry 1  / they 3
+ / however 1  / guesswork 1  / commanding 1  / use 1  / WATCHING 1  / corner 2 / sound 2 / this 2 / Ninth 1 
+ / plastered 1  / plug 1  / moreover 1  / sites 1  / caption 1  / cardboard 1  / vision 1  / city 1  / places 1 
+ / distaste 1  / But 2 / nothing 1  / house-front 1  / transmitted 1  / provinces 1  / BROTHER 1  / vistas 1  / being 1 
+ / colonies 1  / immediately 1  / low 1  / childhood 2 / through 1  / He 1  / though 2 / IS 1  / wind 2
+ / In 1  / It 3 / simultaneously 1  / shored 1  / tried 1  / was 11 / way 1  / heaps 1  / knowing 1 
+ / timber 1  / heard 1  / wire 2 / little 1  / mostly 1  / shut 1  / with 5 / deep 1  / looked 2
+ / cold 1  / helicopter 1  / overfulfilment 1  / wooden 1  / except 3 / within 1  / How 1  / down 2 / curving 1 
+ / dwellings 1  / your 1  / London 2 / whirling 1  / straggled 1  / roofs 2 / Airstrip 1  / had 4 / time 1 
+ / been 1  / YOU 1  / chicken-houses 1  / an 1  / darted 1  / as 4 / at 4 / be 4 / by 1 
+ / face 1  / can 1  / word 1  / him 1  / work 1  / poster 1  / his 3 / instinct 1  / quite 1 
+ / any 3 / he 5 / plugged 1  / dust 2 / in 9 / it 2 / given 1  / turned 1  / bombs 1 
+ / well 2 / no 4 / which 1  / of 18 / mattered 1  / on 3 / or 1  / rotting 1  / overheard 1 
+ / every 3 / commanded 1  / sprung 1  / were 3 / thought 1  / even 3 / so 1  / Plan 1  / to 5
+ / garden 1  / pig-iron 1  / would 1  / up 3 / Thought 2 / darkness 1  / plaster 1  / whenever 1  / while 1 
+ / system 1  / people's 1  / sky 1  / very 1  / kilometre 1  / posters 1  / against 1  / torn 2 / patrols 1 
+ / voice 1  / populous 1  / some 1  / The 3 / gazed 1  / watched 2 / You 1  / white 1  / And 1 
+ / nineteenth-century 1  / habit 1  / back 3 / grimy 1  / dark 1  / tell 1  / seen 1  / place 1  / sort 1 
+ / windows 2 / sordid 1  / sun 1  / series 1  / This 1  / police 1  / not 2 / still 1  / iron 1 
+ / unintelligible 1  / chief 1  / field 1  / anything 1  / scrutinized 1  / flapped 1  / whisper 1  / One 1  / flight 1 
+ / movement 1  / did 2 / alternately 1  / Truth 1  / matter 1  / swirled 1  / streetlevel 1  / moment 1  / bombed 1 
+ / whether 2 / memory 1  / landscape 1  / knew 1  / skimmed 1  / tableaux 1  / the 37 / harsh 1  / colour 1 
+ / like 3 / snooping 1  / fitfully 1  / remember 1  / Oceania 1  / background 1  / assumption 1  / street 1  / patrol 1 
+ / bright-lit 1  / shining 1  / from 3 / patch 1  / squeeze 1  / crazy 1  / uncovering 1  / Down 2 / hovered 1 
+ / itself 1 
